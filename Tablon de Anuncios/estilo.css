@@ -1,0 +1,118 @@
+BODY {
+   background: #000 url(plantillas/images/fondo.jpg) repeat-x;
+   font: 0.9em tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+   color: #666666;
+   margin: 20px 0px 20px 0px;
+   text-align: center;
+   
+}
+
+A, A:ACTIVE, A:FOCUS, A:LINK, A:VISITED {
+     color : #3F3DE3;
+	 
+}
+A:HOVER {
+   color: #a74237;
+}
+
+H1{
+    font-size: 1.8em;
+	color: #69081f;
+	font-family: garamond, times new roman;
+}
+
+#contenedor{
+    background: url(plantillas/images/portada.jpg) repeat-x;
+    text-align: left;
+	width: 700px;
+	margin: auto;
+}
+
+#cabecera{
+   height: 106px;
+   width: 700px;
+}
+
+#navegador{
+    
+    
+    background-color: #69081f;
+	padding: 8px 10px 10px 10px;
+	border-bottom: 1px solid #000;
+	background: url(plantillas/images/portada.jpg) repeat-x;
+}
+
+#navegador a{
+   color: #ffffcc;
+}
+#navegadorederecha {
+    float: right;
+}
+#cuerpo{
+     padding: 12px;
+	 background-color : #ffffff;
+}
+
+#pie{
+    clear : both;
+	font-size: 1.2em;
+	color: #69081f;
+	font-family: garamond,times new roman;
+	text-align: right;
+	margin: 8px 0px;
+	padding: 10px 8px 10px 8px;
+	background: #f76e17 url(plantillas/images/fondo.jpg);
+}
+.campoform{
+
+margin: 5px 0 10px 0;
+}
+.lineaanunciooo{
+
+   margin: 0 0 15px 0;
+   padding: 15px;
+   border: 1px solid #ddd;
+   background-color: #ffc;
+}
+ 
+.campoformulario {
+
+  margin: 20px 10px 0;
+  }
+  
+.campoformulario span {
+    
+   display: block;
+   float: left;
+   width: 110px;
+ 
+ }
+ .formerror {
+ 
+    padding: 10px;
+	border: 1px solid #99333;
+    background: #ffcccc;
+}
+
+.listaanuncios{
+
+      list-style: none;
+	  margin: 20px 0;
+	  padding: 0;
+}
+
+.listaanuncios li {
+   margin:10px 0;
+
+}
+
+.enlaceaccion {
+
+ font-size: 0.87em;
+ 
+ tex-decoration: none;
+
+ margin-right: 10px;
+
+}
+ 
