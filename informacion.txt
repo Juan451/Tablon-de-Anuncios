@@ -1,0 +1,2 @@
+Esto es un tablon de anuncios en php, tan solo hace falta que tu pongas los anuncios que quieras en sql importandolos 
+sql en PhpMyAdmin
